@@ -1,1 +1,2 @@
-My journey into machine learning.
+My journey into machine learning
+Reviewing last years course
